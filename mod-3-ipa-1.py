@@ -1,3 +1,12 @@
+'''Module 3: Individual Programming Assignment 1
+
+Thinking Like a Programmer
+
+This assignment covers your intermediate proficiency with Python.
+
+'''
+
+
 def shift_letter(letter, shift):
     '''Shift Letter. 
     5 points.
