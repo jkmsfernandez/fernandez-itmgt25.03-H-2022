@@ -1,3 +1,8 @@
+'''Module 2: Individual Programming Assignment 1
+Useful Business Calculations
+This assignment covers your basic proficiency with Python.
+'''
+
 def savings(gross_pay, tax_rate, expenses):
     '''Savings.
     5 points.
